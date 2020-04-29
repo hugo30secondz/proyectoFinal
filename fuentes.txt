@@ -1,0 +1,7 @@
+https://developers.google.com/maps/documentation/javascript/directions#UsageLimits
+
+https://developers.google.com/maps/documentation/javascript/directions#Waypoints
+
+https://developers.google.com/maps/documentation/javascript/directions#Waypoints
+
+https://programacion.net/articulo/como_mover_de_manera_sutil_y_suave_un_marcador_en_google_maps_utilizando_javascript_1891
